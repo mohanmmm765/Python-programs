@@ -1,7 +1,7 @@
 n=input()
-if n=='sunday':
+if n=='Sunday':
   print("yes")
-elif n=='saturday':
+elif n=='Saturday':
   print("yes")
 else:
   print("no")
